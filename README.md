@@ -4,7 +4,7 @@ We would like to acknowledge (Hua et al.) for their work [Detection of Electric 
 
 # Our Paper
 
-This repo contains the codes of the proposed Huber ENF detector described in the [**On Robust Electric Network Frequency Detection Using Huber Regression**](https://dl.acm.org/doi/pdf/10.1145/3635059.3635098) paper. The paper is published in the proceedings of the ***Proceedings of the 27th Pan-Hellenic Conference on Progress in Computing and Informatics*** (PCI 2023).
+This repo contains the codes of the proposed Huber ENF detector described in the [**On Robust Electric Network Frequency Detection Using Huber Regression**](https://dl.acm.org/doi/pdf/10.1145/3635059.3635098) paper. The paper is published in the ***Proceedings of the 27th Pan-Hellenic Conference on Progress in Computing and Informatics*** (PCI 2023).
 
 # Dataset
 
